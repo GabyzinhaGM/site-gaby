@@ -1,9 +1,1 @@
-URLs amigáveis configuradas.
-
-Envie TODOS os arquivos e pastas deste ZIP para a raiz do repositório GitHub Pages correspondente.
-Mantenha os arquivos .html originais para preservar links antigos.
-Os novos links dos menus usam /nome-da-pagina/.
-As novas pastas contêm index.html e base href="/" para manter CSS, JavaScript e imagens funcionando.
-Não envie a pasta externa do ZIP, apenas seu conteúdo.
-
-Páginas: acessibilidade, audiodescricao, danca, orcamento, quem-sou, redes, servicos, sites
+URLs amigáveis: cada pagina tem pasta/index.html. Publique TODO o conteudo do ZIP na raiz do repositorio, inclusive as pastas. Os arquivos .html antigos foram preservados. Verifique GitHub Actions/Pages apos push.
